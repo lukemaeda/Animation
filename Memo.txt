@@ -1,0 +1,2 @@
+CoreImage リサイズ、画像中央から指定サイズでのトリミング
+http://qiita.com/yusuga_/items/36c9a524d211810fb838
